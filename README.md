@@ -18,4 +18,3 @@
     alt="example" />
 </p>
 
-Introvert.
