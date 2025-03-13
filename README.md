@@ -17,9 +17,5 @@
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
-(60 kB)
-https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif
 
-X (formerly Twitter)X (formerly Twitter)
-Shameer Mukhtar (@Shameer_193) on X
 Introvert.
