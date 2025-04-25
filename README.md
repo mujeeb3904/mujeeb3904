@@ -1,5 +1,9 @@
 <h1 align="center">Hey there, I'm Mujeeb 👋</h1>
-<h3 align="center">Passionate Backend Developer | API Architect | Cloud Explorer ☁️</h3>
+<h3 align="center">Backend Developer | API Specialist | Cloud Enthusiast ☁️</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mujeeb!;Backend+Developer+from+Pakistan!;Let's+build+something+awesome+🚀" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
@@ -7,15 +11,43 @@
 
 ---
 
+## 🚀 About Me
+
 - 🔭 Currently working as a **Backend Developer**
-- ⚙️ Skilled in: **Node.js**, **MongoDB**, **Express**, **AWS**, **Docker**
-- 🌱 Currently exploring **Serverless**, **AWS Glue & Redshift**, and **Microservices**
-- 💬 Ask me about: REST APIs, JWT Auth, MongoDB Aggregations
-- 🧠 Always learning & experimenting with scalable architectures
+- ⚙️ Skilled in: **Node.js**, **Express**, **MongoDB**, **PostgreSQL**, **NestJS**, **SQL**, **AWS**, **Docker**
+- 🌱 Currently exploring: **Serverless Architecture**, **AWS Glue & Redshift**, **Microservices**
+- 💬 Ask me about: **REST APIs**, **JWT Auth**, **MongoDB Aggregations**, **System Design**
+- 🧠 I believe in **clean code**, **scalable systems**, and **continuous learning**
 
 ---
 
-## 🔗 Connect with me
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,nestjs,aws,docker,git,javascript" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="mujeeb stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="top-langs" />
+</p>
+
+---
+
+## 📈 GitHub Activity Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
 <p>
   <a href="https://www.linkedin.com/in/mujeeb-ur-rehman-8717811b7/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://twitter.com/shameer_193"><img src="https://skillicons.dev/icons?i=twitter" /></a>
@@ -25,29 +57,6 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,aws,docker,git,github,html,css,js,ts,figma,firebase,react,redux,tailwind" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mujeeb&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujeeb&layout=compact&theme=tokyonight" alt="langs" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mujeeb&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="snake-graph">
+  <img src="https://github.com/Akshay090/github-profile-readme-generator/blob/master/code.gif?raw=true" alt="code rain" width="500" />
 </p>
