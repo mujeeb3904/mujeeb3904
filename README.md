@@ -32,11 +32,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mujeebs-projects-193dde4e&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="mujeeb stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mujeeb3904&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="mujeeb stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujeebs-projects-193dde4e&layout=compact&theme=tokyonight" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujeeb3904&layout=compact&theme=tokyonight" alt="top-langs" />
 </p>
 
 ---
