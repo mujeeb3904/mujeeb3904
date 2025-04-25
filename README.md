@@ -29,26 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mujeeb3904&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="mujeeb stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujeeb3904&layout=compact&theme=tokyonight" alt="top-langs" />
-</p>
-
----
-
-## 📈 GitHub Activity Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mujeeb3904&theme=tokyonight" alt="streak-stats" />
-</p>
-
----
-
 ## 🔗 Connect with Me
 
 <p align="center">
@@ -68,6 +48,8 @@
 
 ---
 
+## 🎮 Fun Game
+
 <p align="center">
-  <img src="https://github.com/Akshay090/github-profile-readme-generator/blob/master/code.gif?raw=true" alt="code rain" width="500" />
+  <img src="https://raw.githubusercontent.com/Abhishhan/github-profile-readme-generator/main/resources/img/github-contribution-grid-snake.svg" alt="snake-game" width="500" />
 </p>
