@@ -23,7 +23,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,nestjs,aws,docker,git,javascript" />
 </p>
 
@@ -32,8 +32,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="mujeeb stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mujeeb-blouch&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="mujeeb stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujeeb-blouch&layout=compact&theme=tokyonight" alt="top-langs" />
 </p>
 
 ---
@@ -41,18 +44,26 @@
 ## 📈 GitHub Activity Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mujeeb-blouch&theme=tokyonight" alt="streak-stats" />
 </p>
 
 ---
 
 ## 🔗 Connect with Me
 
-<p>
-  <a href="https://www.linkedin.com/in/mujeeb-ur-rehman-8717811b7/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/shameer_193"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://www.instagram.com/mujeeb__blouch/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://www.facebook.com/mujeeb.blouch.007"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mujeeb-ur-rehman-8717811b7/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/shameer_193" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.instagram.com/mujeeb__blouch/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.facebook.com/mujeeb.blouch.007" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
 </p>
 
 ---
