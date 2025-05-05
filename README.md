@@ -48,8 +48,4 @@
 
 ---
 
-## 🎮 Fun Game
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abhishhan/github-profile-readme-generator/main/resources/img/github-contribution-grid-snake.svg" alt="snake-game" width="500" />
-</p>
