@@ -31,20 +31,21 @@
 
 ## 🔗 Connect with Me
 
-<!-- Facebook -->
-<a href="https://www.facebook.com/mujeeb.blouch.007" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="30" height="30" alt="Facebook" />
-</a>
 
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/mujeeb-ur-rehman-8717811b7/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="30" alt="LinkedIn" />
-</a>
+<p align="center">
 
-<!-- Instagram -->
-<a href="https://www.instagram.com/mujeeb__blouch/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" height="30" alt="Instagram" />
-</a>
+  <a href="https://www.linkedin.com/in/mujeeb-ur-rehman-8717811b7/" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="30" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/mujeeb.blouch.007" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="30" height="30" alt="Facebook" />
+  </a>
+
+  <a href="https://www.instagram.com/mujeeb__blouch/" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" height="30" alt="Instagram" />
+  </a>
+</p>
+
 
 ---
 
