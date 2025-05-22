@@ -31,17 +31,20 @@
 
 ## 🔗 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mujeeb-ur-rehman-8717811b7/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/mujeeb__blouch/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
- <a href="https://www.facebook.com/mujeeb.blouch.007" target="_blank">
+<!-- Facebook -->
+<a href="https://www.facebook.com/mujeeb.blouch.007" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="30" height="30" alt="Facebook" />
 </a>
-</p>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/mujeeb-ur-rehman-8717811b7/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="30" alt="LinkedIn" />
+</a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/mujeeb__blouch/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" height="30" alt="Instagram" />
+</a>
 
 ---
 
