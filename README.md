@@ -35,9 +35,6 @@
   <a href="https://www.linkedin.com/in/mujeeb-ur-rehman-8717811b7/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/shameer_193" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
   <a href="https://www.instagram.com/mujeeb__blouch/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
