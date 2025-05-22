@@ -39,8 +39,8 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://www.facebook.com/mujeeb.blouch.007" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" />
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" width="30" height="30" alt="Facebook" />
+</a>
 </p>
 
 ---
