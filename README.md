@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Mujeeb 👋</h1>
-<h3 align="center">Backend Developer | API Specialist | Cloud Enthusiast </h3>
+<h3 align="center">Backend Developer | API Specialist | Blockchain Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mujeeb!;Backend+Developer+from+Pakistan!;Let's+build+something+awesome+🚀" alt="Typing SVG" />
