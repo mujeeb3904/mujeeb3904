@@ -70,16 +70,19 @@ Blockchain enthusiast exploring future technologies 🚀
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mujeeb-ur-rehman-8717811b7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+  <a href="https://www.linkedin.com/in/mujeeb-ur-rehman-8717811b7/" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="30" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/mujeeb.blouch.007" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://www.facebook.com/mujeeb.blouch.007" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="30" height="30" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/mujeeb__blouch/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+
+  <a href="https://www.instagram.com/mujeeb__blouch/" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" height="30" alt="Instagram" />
   </a>
 </p>
+
 
 ---
 
