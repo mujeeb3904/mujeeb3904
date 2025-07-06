@@ -6,7 +6,7 @@
 <h3 align="center">🚀 Backend Developer | API Specialist | Blockchain Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0FF0FC&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Mujeeb!;Backend+Developer+from+Pakistan!;Let's+build+something+awesome+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0FF0FC&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Mujeeb!;Backend+Developer!;Let's+build+something+awesome+" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ Blockchain enthusiast exploring future technologies 🚀
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mujeeb-blouch&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mujeeb3904&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
