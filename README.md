@@ -1,4 +1,4 @@
-<!-- Banner (Optional: You can create one at https://www.canva.com/) -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0FF0FC&height=200&section=header&text=Hey%20There,%20I'm%20Mujeeb%20👋&fontSize=40&fontColor=ffffff" />
 </p>
@@ -57,8 +57,8 @@ Blockchain enthusiast exploring future technologies 🚀
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mujeeb-blouch&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mujeeb-blouch&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mujeeb3904&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mujeeb3904&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
