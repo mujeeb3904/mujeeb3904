@@ -52,18 +52,18 @@ Blockchain enthusiast exploring future technologies 🚀
 </p>
 
 ---
-
+<!---
 ## 📈 GitHub Metrics
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/mujeeb3904/mujeeb3904/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
-
+--->
 
 <!-- You need to set up github-metrics action in your profile repository to generate this file -->
 
 ---
 
+<!---
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -72,7 +72,7 @@ Blockchain enthusiast exploring future technologies 🚀
 
 <!-- You need to set up GitHub Actions for the snake animation to work -->
 
----
+--->
 
 ## 🌐 Connect with Me
 
