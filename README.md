@@ -15,26 +15,34 @@
 
 💻 I’m a **Backend Developer** passionate about building **scalable**, **efficient**, and **robust APIs**.
 
-🌟 **Current Focus:**  
-`Backend Development` • `API Architecture` • `Microservices` • `Blockchain`
+🌟 **Current Focus:**
+- Backend Development
+- API Architecture
+- Microservices
+- Blockchain
 
-🔧 **Tech Stack:**  
-`Node.js` • `Express` • `MongoDB` • `PostgreSQL` • `NestJS` • `SQL` • `AWS` • `Docker`
+🔧 **Tech Stack:**
+- Node.js • Express • MongoDB • PostgreSQL • NestJS • SQL • AWS • Docker
 
-📚 **Learning:**  
-`Serverless Architecture` • `AWS Glue & Redshift` • `Microservices Best Practices`
+📚 **Currently Learning:**
+- Serverless Architecture
+- AWS Glue & Redshift
+- Microservices Best Practices
 
-💬 **Ask Me About:**  
-`REST APIs` • `JWT Authentication` • `MongoDB Aggregations` • `System Design`
+💬 **Ask Me About:**
+- REST APIs
+- JWT Authentication
+- MongoDB Aggregations
+- System Design
 
 🧠 I believe in **clean code**, **scalable systems**, and **continuous learning.**
 
-✨ **Fun Fact:**  
-Blockchain enthusiast exploring future technologies 🚀
+✨ **Fun Fact:**
+- I'm a blockchain enthusiast exploring future technologies 🚀
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,aws,docker,git,javascript" />
@@ -69,4 +77,4 @@ Blockchain enthusiast exploring future technologies 🚀
 
 ---
 
-## 🔥 Let's Connect & Build Something Great Together! 🚀
+<h3 align="center">🔥 Let's Connect & Build Something Great Together! 🚀</h3>
