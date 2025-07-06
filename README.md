@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0FF0FC&height=200&section=header&text=Hey%20There,%20I'm%20Mujeeb%20👋&fontSize=40&fontColor=ffffff" />
 </p>
@@ -54,16 +53,23 @@ Blockchain enthusiast exploring future technologies 🚀
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mujeeb3904&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mujeeb3904&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://raw.githubusercontent.com/mujeeb3904/mujeeb3904/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
+<!-- You need to set up github-metrics action in your profile repository to generate this file -->
+
+---
+
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mujeeb3904&theme=tokyo-night&hide_border=true" />
+  <img src="https://github.com/mujeeb3904/mujeeb3904/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
+
+<!-- You need to set up GitHub Actions for the snake animation to work -->
 
 ---
 
@@ -82,7 +88,6 @@ Blockchain enthusiast exploring future technologies 🚀
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" height="30" alt="Instagram" />
   </a>
 </p>
-
 
 ---
 
