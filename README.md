@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0FF0FC&height=200&section=header&text=Hey%20There,%20I'm%20Mujeeb%20👋&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0FF0FC&height=200&section=header&text=Hey%20There,%20I'm%20Mujeeb%20 &fontSize=40&fontColor=ffffff" />
 </p>
 
 <h3 align="center"> Backend Developer | API Specialist | Blockchain Enthusiast </h3>
