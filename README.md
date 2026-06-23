@@ -1,16 +1,24 @@
 <h1 align="center">Mujeeb Ur Rehman</h1>
 
 <p align="center">
-  Backend Engineer focused on scalable systems, Web3 infrastructure, and fintech products.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=620&lines=Backend+Engineer;Web3+%26+Fintech+Systems;Scalable+APIs+%7C+Distributed+Systems" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mujeeb-ur-rehman-8717811b7/">LinkedIn</a> ·
-  <a href="https://github.com/mujeeb3904">GitHub</a> ·
-  <a href="https://www.instagram.com/mujeeb__blouch/">Instagram</a>
+  <a href="https://www.linkedin.com/in/mujeeb-ur-rehman-8717811b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mujeeb3904">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mujeeb__blouch/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
+</p>
 
 ## About
 
@@ -31,6 +39,10 @@ With **2+ years of production experience**, I have worked on **Web3, fintech, an
 ---
 
 ## Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,typescript,javascript,mongodb,postgresql,redis,docker,aws,gcp,git" />
+</p>
 
 **Backend:** Node.js, NestJS, Express, TypeScript, JavaScript  
 **Databases:** MongoDB, PostgreSQL, Redis  
@@ -106,6 +118,10 @@ AI career platform for resume generation, ATS scoring, and billing.
 Scalable system design · Blockchain infrastructure · Backend optimization · Distributed systems · Clean architecture
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7C3AED&height=90&section=footer" />
+</p>
 
 <p align="center">
   Building reliable backend systems for products that need to scale.
