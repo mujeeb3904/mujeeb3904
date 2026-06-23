@@ -11,7 +11,7 @@
   <a href="https://github.com/mujeeb3904">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/mujeeb_dev/">
+  <a href="https://www.instagram.com/mujeeb___dev/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
