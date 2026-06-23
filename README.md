@@ -103,14 +103,6 @@ Reward and rebate engine for brokers and trading users.
 - Added blockchain payout support across BSC, Tron, and Solana
 - Implemented real-time chat and deployment pipelines
 
-### Resumfy
-
-AI career platform for resume generation, ATS scoring, and billing.
-
-- Integrated OpenAI and Claude for content generation
-- Built subscription billing with crypto payment support
-- Added secure OTP and JWT-based authentication
-
 ---
 
 ## Interests
